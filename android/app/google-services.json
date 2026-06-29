@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877939786530",
+    "project_id": "subtaqi",
+    "storage_bucket": "subtaqi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877939786530:android:24e74db8c840a849b4db7b",
+        "android_client_info": {
+          "package_name": "com.example.my_task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBs-mVe_FxoLlZqUTLwj8IG9Nhmcm32I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
